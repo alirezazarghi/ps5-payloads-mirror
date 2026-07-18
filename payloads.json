@@ -1,5 +1,16 @@
 [
   {
+    "name": "pldmgr",
+    "filename": "pldmgr_v0.3.3.elf",
+    "url": "https://github.com/itsPLK/ps5-payloads-mirror/releases/download/payloads-mirror/pldmgr_v0.3.3.elf",
+    "source": "https://github.com/itsPLK/pldmgr/releases",
+    "source_direct": "https://github.com/itsPLK/ps5-payload-manager/releases/download/v0.3.3/pldmgr_v0.3.3.elf",
+    "description": "A modern, web-based dashboard to easily manage, import, and automatically load payloads on your PS5.",
+    "last_update": "2026-07-17",
+    "version": "v0.3.3",
+    "checksum": "8a214dcc190c893b1dea43ab64cb89c431a34630906c31413f6f44c0389b698e"
+  },
+  {
     "name": "kstuff-lite",
     "filename": "kstuff-lite_v1.09.elf",
     "url": "https://github.com/itsPLK/ps5-payloads-mirror/releases/download/payloads-mirror/kstuff-lite_v1.09.elf",
@@ -43,17 +54,6 @@
     "last_update": "2026-06-28",
     "version": "v0.19",
     "checksum": "797827b50a93dbf327abdca45063d76ea24b17e561d927f397a0b73cadb2e2bd"
-  },
-  {
-    "name": "pldmgr",
-    "filename": "pldmgr_v0.3.1.elf",
-    "url": "https://github.com/itsPLK/ps5-payloads-mirror/releases/download/payloads-mirror/pldmgr_v0.3.1.elf",
-    "source": "https://github.com/itsPLK/pldmgr/releases",
-    "source_direct": "https://github.com/itsPLK/ps5-payload-manager/releases/download/v0.3.1/pldmgr_v0.3.1.elf",
-    "description": "A modern, web-based dashboard to easily manage, import, and automatically load payloads on your PS5.",
-    "last_update": "2026-06-06",
-    "version": "v0.3.1",
-    "checksum": "518740adbacccb9094fadb07dd424c53ee290f38306449ccc9d6957fdf813c0b"
   },
   {
     "name": "ftpsrv",
