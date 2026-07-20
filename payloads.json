@@ -1,14 +1,14 @@
 [
   {
     "name": "pldmgr",
-    "filename": "pldmgr_v0.3.3.elf",
-    "url": "https://github.com/itsPLK/ps5-payloads-mirror/releases/download/payloads-mirror/pldmgr_v0.3.3.elf",
+    "filename": "pldmgr_v0.4.1.elf",
+    "url": "https://github.com/itsPLK/ps5-payloads-mirror/releases/download/payloads-mirror/pldmgr_v0.4.1.elf",
     "source": "https://github.com/itsPLK/pldmgr/releases",
-    "source_direct": "https://github.com/itsPLK/ps5-payload-manager/releases/download/v0.3.3/pldmgr_v0.3.3.elf",
+    "source_direct": "https://github.com/itsPLK/ps5-payload-manager/releases/download/v0.4.1/pldmgr_v0.4.1.elf",
     "description": "A modern, web-based dashboard to easily manage, import, and automatically load payloads on your PS5.",
-    "last_update": "2026-07-17",
-    "version": "v0.3.3",
-    "checksum": "8a214dcc190c893b1dea43ab64cb89c431a34630906c31413f6f44c0389b698e"
+    "last_update": "2026-07-19",
+    "version": "v0.4.1",
+    "checksum": "8f26faf1f6e831150af3284e2cca4944917f073efedfb4db0335cfab75a17951"
   },
   {
     "name": "kstuff-lite",
