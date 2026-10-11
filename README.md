@@ -7,7 +7,7 @@ This repository contains an automated mirror of useful payloads for the PlayStat
 <!-- PAYLOADS_START -->
 | Payload | Version | Description | Last Updated | Source | Download |
 | --- | --- | --- | --- | --- | --- |
-| **ShadowMountPlus** | `1.7beta3` | A fully automated, background 'Auto-Mounter' payload for Jailbroken PlayStation 5 consoles. | `2026-10-01` | [Source](https://github.com/drakmor/ShadowMountPlus/releases) | [Download](https://github.com/itsPLK/ps5-payloads-mirror/releases/download/payloads-mirror/ShadowMountPlus_1.7beta3.elf) |
+| **ShadowMountPlus** | `1.7-beta5fix1` | A fully automated, background 'Auto-Mounter' payload for Jailbroken PlayStation 5 consoles. | `2026-10-10` | [Source](https://github.com/drakmor/ShadowMountPlus/releases) | [Download](https://github.com/itsPLK/ps5-payloads-mirror/releases/download/payloads-mirror/ShadowMountPlus_1.7-beta5fix1.elf) |
 | **pldmgr** | `v0.5.2` | A modern, web-based dashboard to easily manage, import, and automatically load payloads on your PS5. | `2026-09-29` | [Source](https://github.com/itsPLK/pldmgr/releases) | [Download](https://github.com/itsPLK/ps5-payloads-mirror/releases/download/payloads-mirror/pldmgr_v0.5.2.elf) |
 | **kstuff-lite** | `v1.11` | Lite version of kstuff | `2026-09-20` | [Source](https://github.com/EchoStretch/kstuff-lite/releases) | [Download](https://github.com/itsPLK/ps5-payloads-mirror/releases/download/payloads-mirror/kstuff-lite_v1.11.elf) |
 | **elfldr** | `v0.26` | An ELF loader for jailbroken PS5s that accepts payloads on port 9021 | `2026-08-29` | [Source](https://github.com/ps5-payload-dev/elfldr/releases) | [Download](https://github.com/itsPLK/ps5-payloads-mirror/releases/download/payloads-mirror/elfldr_v0.26.elf) |
