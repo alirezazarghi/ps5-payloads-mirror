@@ -1,5 +1,16 @@
 [
   {
+    "name": "pldmgr",
+    "filename": "pldmgr_v0.6.0.elf",
+    "url": "https://github.com/itsPLK/ps5-payloads-mirror/releases/download/payloads-mirror/pldmgr_v0.6.0.elf",
+    "source": "https://github.com/itsPLK/pldmgr/releases",
+    "source_direct": "https://github.com/itsPLK/ps5-payload-manager/releases/download/v0.6.0/pldmgr_v0.6.0.elf",
+    "description": "A modern, web-based dashboard to easily manage, import, and automatically load payloads on your PS5.",
+    "last_update": "2026-10-13",
+    "version": "v0.6.0",
+    "checksum": "5b31079d81d6467f2754edd1d6dbe63b0306502e135c21a425ecb263e39e2059"
+  },
+  {
     "name": "ShadowMountPlus",
     "filename": "ShadowMountPlus_1.7-beta5fix1.elf",
     "url": "https://github.com/itsPLK/ps5-payloads-mirror/releases/download/payloads-mirror/ShadowMountPlus_1.7-beta5fix1.elf",
@@ -10,17 +21,6 @@
     "last_update": "2026-10-10",
     "version": "1.7-beta5fix1",
     "checksum": "e85fd63b705498488f39c09c9aea6f9fa22e0df2e932865de49a8cedf25172d5"
-  },
-  {
-    "name": "pldmgr",
-    "filename": "pldmgr_v0.5.2.elf",
-    "url": "https://github.com/itsPLK/ps5-payloads-mirror/releases/download/payloads-mirror/pldmgr_v0.5.2.elf",
-    "source": "https://github.com/itsPLK/pldmgr/releases",
-    "source_direct": "https://github.com/itsPLK/ps5-payload-manager/releases/download/v0.5.2/pldmgr_v0.5.2.elf",
-    "description": "A modern, web-based dashboard to easily manage, import, and automatically load payloads on your PS5.",
-    "last_update": "2026-09-29",
-    "version": "v0.5.2",
-    "checksum": "62b3ba2a4937c2afc502f9a4e7242cca538610ebb4ae2800c7c6f72e7f268e7c"
   },
   {
     "name": "kstuff-lite",
