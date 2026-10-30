@@ -1,15 +1,15 @@
 [
   {
     "name": "ShadowMountPlus",
-    "filename": "ShadowMountPlus_1.7beta10.elf",
-    "url": "https://github.com/itsPLK/ps5-payloads-mirror/releases/download/payloads-mirror/ShadowMountPlus_1.7beta10.elf",
+    "filename": "ShadowMountPlus_1.7beta11.elf",
+    "url": "https://github.com/itsPLK/ps5-payloads-mirror/releases/download/payloads-mirror/ShadowMountPlus_1.7beta11.elf",
     "source": "https://github.com/drakmor/ShadowMountPlus/releases",
-    "source_direct": "https://github.com/drakmor/ShadowMountPlus/releases/download/1.7beta10/ShadowMountPlus_1.7beta10.zip",
+    "source_direct": "https://github.com/drakmor/ShadowMountPlus/releases/download/1.7beta11/ShadowMountPlus_1.7beta11.zip",
     "extract_file": "shadowmountplus.elf",
     "description": "A fully automated, background 'Auto-Mounter' payload for Jailbroken PlayStation 5 consoles.",
-    "last_update": "2026-10-28",
-    "version": "1.7beta10",
-    "checksum": "8c6798232ae2a8fbcd209ab97fc4f8d4d47cf23b7eecfaa6349c0bfeb8e4a3d3"
+    "last_update": "2026-10-29",
+    "version": "1.7beta11",
+    "checksum": "08c843018750bef013fe3a4de5f80c5c9738c6c2dafa2406e6b6e68d7585f3da"
   },
   {
     "name": "elfldr",
