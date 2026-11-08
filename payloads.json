@@ -1,14 +1,14 @@
 [
   {
     "name": "garlic-savemgr",
-    "filename": "garlic-savemgr_v1.15-beta12.elf",
-    "url": "https://github.com/itsPLK/ps5-payloads-mirror/releases/download/payloads-mirror/garlic-savemgr_v1.15-beta12.elf",
+    "filename": "garlic-savemgr_v1.15-beta14.elf",
+    "url": "https://github.com/itsPLK/ps5-payloads-mirror/releases/download/payloads-mirror/garlic-savemgr_v1.15-beta14.elf",
     "source": "https://github.com/earthonion/garlic-savemgr/releases",
-    "source_direct": "https://github.com/earthonion/garlic-savemgr/releases/download/v1.15-beta12/garlic-savemgr.elf",
+    "source_direct": "https://github.com/earthonion/garlic-savemgr/releases/download/v1.15-beta14/garlic-savemgr.elf",
     "description": "PS5 save decrypt/encrypt/browse with embedded web UI.",
-    "last_update": "2026-11-06",
-    "version": "v1.15-beta12",
-    "checksum": "ad4b49a58375def0d1d4d3772b369ee5d50dc2ff571bdd4ea0c6294a822fe0fc"
+    "last_update": "2026-11-08",
+    "version": "v1.15-beta14",
+    "checksum": "26cd5332566f7dc128277966c329a3be990fcd48bff47a3f4f0d088465235936"
   },
   {
     "name": "ShadowMountPlus",
