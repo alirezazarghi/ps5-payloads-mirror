@@ -1,14 +1,14 @@
 [
   {
     "name": "garlic-savemgr",
-    "filename": "garlic-savemgr_v1.15-beta21.elf",
-    "url": "https://github.com/itsPLK/ps5-payloads-mirror/releases/download/payloads-mirror/garlic-savemgr_v1.15-beta21.elf",
+    "filename": "garlic-savemgr_v1.15-beta22.elf",
+    "url": "https://github.com/itsPLK/ps5-payloads-mirror/releases/download/payloads-mirror/garlic-savemgr_v1.15-beta22.elf",
     "source": "https://github.com/earthonion/garlic-savemgr/releases",
-    "source_direct": "https://github.com/earthonion/garlic-savemgr/releases/download/v1.15-beta21/garlic-savemgr.elf",
+    "source_direct": "https://github.com/earthonion/garlic-savemgr/releases/download/v1.15-beta22/garlic-savemgr.elf",
     "description": "PS5 save decrypt/encrypt/browse with embedded web UI.",
-    "last_update": "2026-11-10",
-    "version": "v1.15-beta21",
-    "checksum": "49228b624f1ba85e67f1e2cadbeb93963c52ebc656449f68cf8f041fce801e6b"
+    "last_update": "2026-11-11",
+    "version": "v1.15-beta22",
+    "checksum": "992bb400e2e2810bb6ce060356c7b6e5953fd93fe58af1eb7de200a485a26210"
   },
   {
     "name": "ftpsrv",

@@ -7,7 +7,7 @@ This repository contains an automated mirror of useful payloads for the PlayStat
 <!-- PAYLOADS_START -->
 | Payload | Version | Description | Last Updated | Source | Download |
 | --- | --- | --- | --- | --- | --- |
-| **garlic-savemgr** | `v1.15-beta21` | PS5 save decrypt/encrypt/browse with embedded web UI. | `2026-11-10` | [Source](https://github.com/earthonion/garlic-savemgr/releases) | [Download](https://github.com/itsPLK/ps5-payloads-mirror/releases/download/payloads-mirror/garlic-savemgr_v1.15-beta21.elf) |
+| **garlic-savemgr** | `v1.15-beta22` | PS5 save decrypt/encrypt/browse with embedded web UI. | `2026-11-11` | [Source](https://github.com/earthonion/garlic-savemgr/releases) | [Download](https://github.com/itsPLK/ps5-payloads-mirror/releases/download/payloads-mirror/garlic-savemgr_v1.15-beta22.elf) |
 | **ftpsrv** | `v0.22` | A simple FTP server that accepts connections on port 2121 | `2026-11-08` | [Source](https://github.com/ps5-payload-dev/ftpsrv/releases) | [Download](https://github.com/itsPLK/ps5-payloads-mirror/releases/download/payloads-mirror/ftpsrv_v0.22.elf) |
 | **ShadowMountPlus** | `1.7beta11` | A fully automated, background 'Auto-Mounter' payload for Jailbroken PlayStation 5 consoles. | `2026-10-29` | [Source](https://github.com/drakmor/ShadowMountPlus/releases) | [Download](https://github.com/itsPLK/ps5-payloads-mirror/releases/download/payloads-mirror/ShadowMountPlus_1.7beta11.elf) |
 | **elfldr** | `v0.27` | An ELF loader for jailbroken PS5s that accepts payloads on port 9021 | `2026-10-21` | [Source](https://github.com/ps5-payload-dev/elfldr/releases) | [Download](https://github.com/itsPLK/ps5-payloads-mirror/releases/download/payloads-mirror/elfldr_v0.27.elf) |
